@@ -1,2 +1,2 @@
-# CD-Vanilla-JS-todo
-A to-do list with vanilla JS
+# CN-Vanilla-JS-todo
+A Code Nation project to-do list with vanilla JS
